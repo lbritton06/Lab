@@ -1,0 +1,67 @@
+<DOCTYPE html>
+    <html>
+    <head>
+        <title>Lab 2 Task 2</title>
+    </head>
+    <body>
+        <h3>Contact Information</h3>
+       <ul>1: Personal Email: louis.britton@hotmail.com </ul>
+            <ul>2: School Email:
+      louis.britton@student.sl.on.ca</ul>
+        <ul>3: Student Number: #4265024</ul>
+        
+        <h3>Biographgy</h3>
+        
+        <p>I was born in St.lazare Quebec and went to West Wood High School. Once I graduated I applied to John Abbot College and was rejected because of low grades. I then started working at a restaurant for the next two years until I moved to Ontario and got accepted into St.Lawrence College. I'm interested in track and feild and rugby, when i'm not at pratice I usually play video games on my PC. I usually play the new game called PLAYERUNKNOWN'S BATTLEGROUNDS.</p>
+        
+        <h3>GitHub Account</h3>
+        <p><a href="https://github.com/lbritton06/">Here</a></p>
+        
+        <h2>PLAYERUNKNOWN'S BATTLEGROUNDS</h2>
+        <img src="https://humblebundle.imgix.net/misc/files/hashed/73b656380a1689b5188d4ff9b2386e6978d378d3.jpg?auto=format&fit=crop&h=353&w=616&ixlib=python-0.2.0&s=159cfa2edf89c4bd6e2741fbf9eb1ac5">
+        
+        
+        <table>
+  <tr>
+    <th>Test</th>
+    <th>Lab 2</th>
+    <th>Lab 3</th>
+  </tr>
+  <tr>
+    <td>Practice</td>
+    <td>Practice</td>
+    <td>Practice</td>
+  </tr>
+  <tr>
+    <td>Germany</td>
+    <td>UK</td>
+    <td>France</td>
+  </tr>
+  
+</table>
+        
+        
+     <video width="350" height="250" controls>
+  <source src="small.mp4" type="video/mp4">
+  <source src="small.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </body>
+    
+    </html>
